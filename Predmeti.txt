@@ -1,4 +1,4 @@
-Informatika in tehnologije komuniciranja
-Komuniciranje in delo v skupini
-Od problema do programa
-Osnove IKT
+Informatika_in_tehnologije_komuniciranja
+Komuniciranje_in_delo_v_skupini
+Od_problema_do_programa
+Osnove_IKT
